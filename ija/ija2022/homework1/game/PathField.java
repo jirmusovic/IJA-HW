@@ -1,4 +1,7 @@
 package ija.ija2022.homework1.game;
 
-public class PathField {
+import ija.ija2022.homework1.common.Field;
+
+public class PathField implements Field {
+
 }
