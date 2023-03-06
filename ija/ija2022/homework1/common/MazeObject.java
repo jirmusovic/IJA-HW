@@ -5,5 +5,4 @@ public interface MazeObject {
 
     public boolean move(Field.Direction dir);
 
-    boolean canMove(Field.Direction dir);
 }
